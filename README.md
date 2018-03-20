@@ -1,7 +1,8 @@
 # houseofcardz
 
 This is the complete House of Cards Lite app, created as specified by the coursework instructions on
-Software Development for Mobile Devices unit.
+Software Development for Mobile Devices unit of the MSc in Advanced Software Engineering of City College, International Faculty 
+of the University of Sheffield.
 
 It works as such:
 
