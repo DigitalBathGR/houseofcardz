@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HouseOfCardz</string>
+    <string name="alpha">Alpha</string>
+    <string name="bravo">Bravo</string>
+    <string name="charlie">Charlie</string>
+    <string name="delta">Delta</string>
+    <string name="number">Number:</string>
+    <string name="score">Score:</string>
+</resources>
